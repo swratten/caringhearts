@@ -1,20 +1,38 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
-blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+title: "Counselling"
+subtitle: Individuals, Families & Couples Counselling in Dunedin, NZ
+image: /img/tobias-tullius-0T9mKFyeN5M-unsplash.jpg
+
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    text: "Caring Hearts does not believe in a 'one size fits all' therapy approach. A range of therapeutic modalities are offered to ensure that positive goals desired by clients are achieved. I am also a Registered Practitioner Member of the Terence Watts BWRT Institute in the UK Brain Working Recursive Therapy is a form of psychotherapy that works with the early part of the brain before there is any form of consciousness or awareness hence changing reactive automatic outcomes. This innovative new concept works with existing negative and destructive thought patterns by changing neural pathways to create positive outcomes. Brain Working Recursive Therapy is an effective way to treat the following: PTSD Anxiety Phobias and Fears Fear of failure All types of Performance Anxiety Self Worth/Self-Confidence Issues Relationship Issues Grief "
+
+services:
+    image: /img/toa-heftiba-_UIVmIBB3JU-unsplash.jpg
+    heading: "Our Services"
+
+sideone:
+    heading: "What to expect"
+    text: "The key element of effective therapy is the engagement process. Our therapy process has been designed to ensure a trustful, working relationship between the therapist and client. The duration of each therapy session will generally be around 50minutes and it is conducted in accordance with the New Zealand Association of Counsellors' Code of Ethics. "
+
+sidetwo:
+    heading: "Family therapy"
+    text: "This covers parent/child/adolescent related issues and finding solution by exploring the family dynamics.Past experiences include working as a therapist/case manager with the Child Adolescent Mental Health Service unit in the Bay of Plenty District Health Board. "
+
+sidethree:
+    heading: "Couple Therapy"
+    text: "Working with couples on effective communication so as to broaden their understanding of each other and further enrich relationships. "
+
+sidefour:
+    heading: "Relaxation Therapy"
+    text: "Sleep deprivation may well affect outcomes of therapy.  Relaxation techniques are introduced to the client to enable them to gain better rest. These techniques have also been known to reduce anxiety, panic attacks and heart palpitations. "
+
+sidefive:
+    heading: "Workplace Coaching and Conflict Management"
+    text: "EAP (Employee Assisted Provider) ."
+
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Our Mission
+    text: Caring Hearts is commited to helping our clients to make positive changes to their lives.
 ---
 
